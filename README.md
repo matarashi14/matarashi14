@@ -5,8 +5,8 @@ Hello, I am Motoki, full stack software developer with two years of experience i
 
 ## Skills
 
-+ Front-end: **HTML**, **CSS**, **React.js**, **Tailwind**, **Sass**, **Material UI**
-+ Back-end: **Node.js**, **Express.js**
-+ Database: **PostreSQL**, **MongoDB**
-+ Scripting: **Bash Scripting**, **Python**
-+ Other Language: **Java**, **C++**
++ Front-end:        **HTML**, **CSS**, **React.js**, **Tailwind**, **Sass**, **Material UI**
++ Back-end:         **Node.js**, **Express.js**
++ Database:         **PostreSQL**, **MongoDB**
++ Scripting:        **Bash Scripting**, **Python**
++ Other Language:   **Java**, **C++**
