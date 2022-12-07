@@ -10,3 +10,8 @@ Hello, I am Motoki, full stack software developer with two years of experience i
 + Database:         **PostreSQL**, **MongoDB**
 + Scripting:        **Bash Scripting**, **Python**
 + Other Language:   **Java**, **C++**
+
+
+## My Link
++ [LinkedIn](https://www.linkedin.com/in/matarashi)
++ [Portfolio](https://matarashi.com)
