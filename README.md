@@ -34,4 +34,3 @@ I am full stack software developer. My passion for technology and drive to conti
 ## My Link
 + [LinkedIn](https://www.linkedin.com/in/matarashi)
 + [Portfolio](https://matarashi.com)
-+ [Blog](https://motoki.blog) *in Japanese*
